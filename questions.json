@@ -1,0 +1,289 @@
+{
+  "heading": "G6_Nets of three-dimensional figures",
+  "topics": [
+    {
+      "heading": "Nets of three-dimensional figures",
+      "questions": [
+
+  
+  {
+    "questionNo": 1,
+    "question": [
+      "A geometric net is a flat, two-dimensional template cut from a sheet of material that can be folded along pre-drawn creases. What does a geometric net create when it is completely and accurately folded?"
+    ],
+    "options": [
+      "A larger two-dimensional polygon",
+      "A three-dimensional solid shape",
+      "A flat circular disc",
+      "A one-dimensional straight line"
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 2,
+    "question": [
+      "If you carefully dismantle a hollow 3D plastic storage bin by cutting along its edges and laying all its connected sides completely flat on the floor, what mathematical term describes this flat 2D arrangement?"
+    ],
+    "options": [
+      "A vertex pattern",
+      "A cross section",
+      "A geometric net",
+      "A planar base"
+    ],
+    "answer": 2
+  },
+  {
+    "questionNo": 3,
+    "question": [
+      "Look carefully at the two-dimensional net drawn below:",
+      "<br>If you cut this net out and fold it securely along the shared edges, which three-dimensional figure will it successfully make?"
+    ],
+    "options": [
+      { "image": "./assests/images/question/3.png" },
+      { "image": "./assests/images/question/3b.png" },
+      { "image": "./assests/images/question/3d.png" },
+      { "image": "./assests/images/question/3c.png" }
+    ],
+    "answer": 2,
+    "image": "./assests/images/question/2.png"
+  },
+  {
+    "questionNo": 4,
+    "question": [
+      "Look carefully at the two-dimensional net drawn below:",
+      "<br>If you cut this net out and fold it along the shared edges, which three-dimensional figure will it successfully make?"
+    ],
+    "options": [
+      { "image": "./assests/images/question/3d.png" },
+      { "image": "./assests/images/question/5b.png" },
+      { "image": "./assests/images/question/5d.png" },
+      { "image": "./assests/images/question/3b.png" }
+    ],
+    "answer": 0,
+    "image": "./assests/images/question/4.png"
+  },
+{
+    "questionNo": 5,
+    "question": [
+      "A perfectly symmetrical cube is constructed strictly from flat square faces. To create a valid flat net that will fold into a fully closed cube, exactly ______ identical squares are required.",
+      ""
+    ],
+    "input": [
+      ""
+    ],
+    "answer": [
+      "6"
+    ]
+  },
+  {
+    "questionNo": 6,
+    "question": [
+      "A standard rectangular prism is formed strictly from flat rectangular faces. To design a complete 2D net for a closed rectangular prism, exactly ______ rectangles must be drawn in total.",
+      ""
+    ],
+    "input": [
+      ""
+    ],
+    "answer": [
+      "6"
+    ]
+  },
+  {
+    "questionNo": 7,
+    "question": [
+      "Look carefully at the two-dimensional net drawn below:",
+      "<br>This net features a central square with exactly four triangles attached to its four straight outer edges. Which three-dimensional figure will this net make?"
+    ],
+    "options": [
+      { "image": "./assests/images/question/7c.png" },
+      { "image": "./assests/images/question/7a.png" },
+      { "image": "./assests/images/question/7d.png" },
+      { "image": "./assests/images/question/7b.png" }
+    ],
+    "answer": 3,
+    "image": "./assests/images/question/6.png"
+  },
+  {
+    "questionNo": 8,
+    "question": [
+      "A particular 3D packaging design requires a net composed of exactly one flat square base and exactly four identical triangles. Assuming they are arranged to fold correctly without gaps, which three-dimensional figure will this net make?"
+    ],
+    "options": [
+      "Triangular pyramid",
+      "Square pyramid",
+      "Rectangular prism",
+      "Cone"
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 9,
+    "question": [
+      "Look carefully at the two-dimensional net drawn below:",
+      "<br>This net features three identical rectangles placed side-by-side, with two identical triangles attached to the top and bottom of the middle rectangle. Which three-dimensional figure will this net make?"
+    ],
+    "options": [
+      { "image": "./assests/images/question/7b.png" },
+      { "image": "./assests/images/question/9a.png" },
+      { "image": "./assests/images/question/7c.png" },
+      { "image": "./assests/images/question/7a.png" }
+    ],
+    "answer": 1,
+    "image": "./assests/images/question/8.png"
+  },
+  {
+    "questionNo": 10,
+    "question": [
+      "An engineering student draws a 2D flat net consisting of exactly three rectangles and exactly two identical triangles. Which three-dimensional solid will this net form when correctly folded?"
+    ],
+    "options": [
+      "Cylinder",
+      "Triangular pyramid",
+      "Triangular prism",
+      "Rectangular prism"
+    ],
+    "answer": 2
+  },
+  {
+    "questionNo": 11,
+    "question": [
+      "Look carefully at the two-dimensional net drawn below:",
+      "<br>This net consists of one large rectangle with two identical circles attached to its top and bottom edges. Which three-dimensional figure will this net make?"
+    ],
+    "options": [
+      { "image": "./assests/images/question/11a.png" },
+      { "image": "./assests/images/question/7c.png" },
+      { "image": "./assests/images/question/7a.png" },
+      { "image": "./assests/images/question/7b.png" }
+    ],
+    "answer": 0,
+    "image": "./assests/images/question/10.png"
+  },
+  {
+    "questionNo": 12,
+    "question": [
+      "A specific 3D chemical container requires a flat net composed of exactly one large continuous rectangle and exactly two identical circles. Which three-dimensional figure will this net make?"
+    ],
+    "options": [
+      "Square pyramid",
+      "Sphere",
+      "Cylinder",
+      "Cone"
+    ],
+    "answer": 2
+  },
+  {
+    "questionNo": 13,
+    "question": [
+      "Look carefully at the two-dimensional net drawn below:",
+      "<br>This net features one perfect circle and one curved piece (a sector of a larger circle). Which three-dimensional figure will this net make?"
+    ],
+    "options": [
+      { "image": "./assests/images/question/11a.png" },
+      { "image": "./assests/images/question/13c.png" },
+      { "image": "./assests/images/question/13b.png" },
+      { "image": "./assests/images/question/13a.png" }
+    ],
+    "answer": 1,
+    "image": "./assests/images/question/12.png"
+  },
+  {
+    "questionNo": 14,
+    "question": [
+      "A geometry puzzle asks you to identify a 3D shape that unfolds into a flat net composed of exactly one flat circular base and one curved piece shaped like a slice of pie (a sector). Which figure is this?"
+    ],
+    "options": [
+      "Cylinder",
+      "Triangular pyramid",
+      "Sphere",
+      "Cone"
+    ],
+    "answer": 3
+  },
+  {
+    "questionNo": 15,
+    "question": [
+      "A triangular pyramid (often referred to as a tetrahedron) is a solid 3D shape built entirely and exclusively out of triangles. To draw a valid 2D net for a completely closed triangular pyramid, exactly ______ identical triangles must be used."
+    ],
+    "input": [""],
+    "answer": ["4"]
+  },
+  {
+    "questionNo": 16,
+    "question": [
+      "An octagonal prism is constructed from two octagon bases (eight-sided polygons) and connecting rectangular sides. To draw a complete flat net for a fully closed octagonal prism, you must draw exactly 2 octagons and exactly ______ rectangles.",
+      " "
+    ],
+    "input": [""],
+    "answer": ["8"]
+  },
+  {
+    "questionNo": 17,
+    "question": [
+      "Look at the two potential flat nets below, both constructed entirely of squares:",
+      "<br>Net A:",
+      "<br><img src='./assests/images/question/14a.png' width = '20%'> ",
+      "<br>Net B:",
+      "<br><img src='./assests/images/question/14b.png'width = '20%'>",
+      "<br>Which of the following statements is mathematically true regarding whether they can fold into a completely closed 3D cube without any holes or overlapping faces?"
+    ],
+    "options": [
+      "Only Net B will make a perfectly closed cube.",
+      "Only Net A will make a perfectly closed cube.",
+      "Both Net A and Net B will make a perfectly closed cube.",
+      "Neither will make a closed cube."
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 18,
+    "question": [
+      "Look at the two potential nets below designed for a square pyramid:",
+      "<br>Net X:",
+      "<br><img src='./assests/images/question/15a.png'width = '20%'>",
+      "<br>Net Y:",
+      "<br><img src='./assests/images/question/15b.png'width = '10%'>",
+      "<br>Which net will successfully fold into a closed square pyramid without any overlapping triangular sides?"
+    ],
+    "options": [
+      "Only Net Y",
+      "Both Net X and Net Y",
+      "Neither",
+      "Only Net X"
+    ],
+    "answer": 3
+  },
+  {
+    "questionNo": 19,
+    "question": [
+      "A food manufacturing company wants to create a flat cardboard net for a completely closed cylindrical canister designed to hold a stack of round potato crisps. Which of the following sets of 2D shapes MUST be included in their flat net design?"
+    ],
+    "options": [
+      "1 square and 1 circle",
+      "3 rectangles and 2 circles",
+      "1 rectangle and 2 circles",
+      "2 rectangles and 1 circle"
+    ],
+    "answer": 2
+  },
+  {
+    "questionNo": 20,
+    "question": [
+      "A student is cutting out a flat cardboard net with scissors to fold into a perfectly closed, standard cube-shaped storage box. By mistake, he cuts out a flat pattern containing exactly 5 squares instead of 6. What will geometrically happen when he attempts to fold this net?"
+    ],
+    "options": [
+      "It will naturally fold into a square pyramid instead.",
+      "It will fold perfectly into a closed cube through stretching.",
+      "It will fold into a rectangular prism.",
+      "It will fold into a cube shape, but one entire side will be completely open (a hole)."
+    ],
+    "answer": 3
+  }
+
+
+
+
+      ]
+    }
+  ]
+}
